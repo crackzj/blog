@@ -18,7 +18,7 @@
 * [文档 (github源)](https://xugaoyi.github.io/vuepress-theme-vdoing-doc/)
 * [效果：Evan's blog](https://xugaoyi.com/)
 
-
+## 本仓库clone vdoing 修改
 ## 介绍
 1. 这个主题的初衷是打造一个好用的、面向程序员的`知识管理工具`
 2. 轻松构建一个`结构化`的知识库，让你的知识海洋像一本本书一样清晰易读。
