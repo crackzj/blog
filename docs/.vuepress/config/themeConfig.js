@@ -5,8 +5,8 @@ const htmlModules = require('./themeConfig/htmlModules.js');
 module.exports = {
   nav,
   sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
-  logo: '/img/EB-logo.png', // 导航栏logo
-  repo: 'xugaoyi/vuepress-theme-vdoing', // 导航栏右侧生成Github链接
+  logo: '/img/crack.png', // 导航栏logo
+  repo: 'crackzj/blog', // 导航栏右侧生成Github链接
   searchMaxSuggestions: 10, // 搜索结果显示最大数
   lastUpdated: '上次更新', // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
   docsDir: 'docs', // 编辑的文件夹
@@ -51,9 +51,9 @@ module.exports = {
   },
   blogger: {
     // 博主信息，显示在首页侧边栏
-    avatar: 'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200103123203.jpg',
+    avatar: 'http://image.boyhack.com/2F6A2D5A-F740-4E67-8B73-3F4EB414EE13.jpeg',
     name: '卜夋',
-    slogan: '每天学习一小点',
+    slogan: '等待一个小朋友',
   },
   social: {
     // 社交图标，显示于博主信息栏和页脚栏
@@ -80,7 +80,7 @@ module.exports = {
     // 页脚信息
     createYear: 2020, // 博客创建年份
     copyrightInfo:
-      'Evan Xu | <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+      'Crackzj | <a href="https://github.com/crackzj/blog" target="_blank">MIT License</a> 鸣谢 Evan xu Vdoing theme', // 博客版权信息，支持a标签
   },
   htmlModules // 插入hmtl(广告)模块
 }
