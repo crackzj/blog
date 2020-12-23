@@ -51,7 +51,7 @@ module.exports = {
   },
   blogger: {
     // 博主信息，显示在首页侧边栏
-    avatar: 'http://image.boyhack.com/2F6A2D5A-F740-4E67-8B73-3F4EB414EE13.jpeg',
+    avatar: 'https://cdn.jsdelivr.net/gh/crackzj/blogImg/blog20201223211137.jpeg',
     name: '卜夋',
     slogan: '等待一个小朋友',
   },
@@ -72,7 +72,7 @@ module.exports = {
       {
         iconClass: 'icon-erji',
         title: 'Music',
-        link: 'https://music.163.com/#/playlist?id=755597173',
+        link: 'https://music.163.com/#/playlist?id=410856150',
       },
     ],
   },

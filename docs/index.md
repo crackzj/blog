@@ -14,7 +14,7 @@ features: # 可选的
     imgUrl: /img/web.png # 可选
   - title: Golang
     details: go学习记录，mysql，随笔、进阶
-    link: /ui/
+    link: /go/
     imgUrl: /img/ui.png
   - title: 技术
     details: 技术文档、教程、技巧、总结等

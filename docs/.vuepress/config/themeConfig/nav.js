@@ -38,7 +38,7 @@ module.exports = [
   },
   {
     text: 'Golang',
-    link: '/ui/',
+    link: '/go/',
     items: [
       { text: 'HTML', link: '/pages/8309a5b876fc95e3/' },
       { text: 'CSS', link: '/pages/0a83b083bdf257cb/' },
