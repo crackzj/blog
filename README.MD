@@ -1,8 +1,8 @@
-<h2 align="center">vuepress-theme-vdoing</h2>
+<h2 align="center">卜夋的博客 by vuepress-theme-vdoing</h2>
 
 * [文档 (国内源)](https://doc.xugaoyi.com/)
 * [文档 (github源)](https://xugaoyi.github.io/vuepress-theme-vdoing-doc/)
-* [效果：Evan's blog](https://xugaoyi.com/)
+* [效果：卜夋的博客](https://blog.boyhack.com/)
 
 ## 本仓库clone vdoing 修改
 ## 介绍
