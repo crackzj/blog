@@ -53,7 +53,7 @@ module.exports = {
     // 博主信息，显示在首页侧边栏
     avatar: 'https://cdn.jsdelivr.net/gh/crackzj/blogImg/blog20201223211137.jpeg',
     name: '卜夋',
-    slogan: '等待一个小朋友',
+    slogan: '生活是一条狗',
   },
   social: {
     // 社交图标，显示于博主信息栏和页脚栏
