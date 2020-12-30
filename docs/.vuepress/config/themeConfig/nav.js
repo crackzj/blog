@@ -41,17 +41,16 @@ module.exports = [
     link: '/go/',
     items: [
       { text: 'Go基础', link: '/pages/f0cf24/' },
-      { text: '进阶', link: '/pages/0a83b083bdf257cb/' },
     ],
   },
   {
     text: '技术',
     link: '/technology/',
     items: [
-      { text: '技术文档', link: '/pages/9a7ee40fc232253e/' },
-      { text: 'GitHub技巧', link: '/pages/4c778760be26d8b3/' },
-      { text: 'Nodejs', link: '/pages/117708e0af7f0bd9/' },
-      { text: '博客搭建', link: '/pages/41f87d890d0a02af/' },
+      { text: 'Linux', link: '/pages/8f1b22/' },
+      // { text: 'GitHub技巧', link: '/pages/4c778760be26d8b3/' },
+      // { text: 'Nodejs', link: '/pages/117708e0af7f0bd9/' },
+      // { text: '博客搭建', link: '/pages/41f87d890d0a02af/' },
     ],
   },
   {
