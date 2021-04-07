@@ -81,13 +81,10 @@ module.exports = {
     createYear: 2020, // 博客创建年份
     copyrightInfo:
       `
-      Crackzj | <a href="https://github.com/crackzj/blog" target="_blank">MIT License</a> 鸣谢 Evan xu Vdoing theme
-      <br>
-      <div style="width:600px;margin:0 auto; padding:20px 0;">
-      <a style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
-      <p style="float:left;height:20px;line-height:20px;margin: 0px 15px 0px 5px; color:#939393;">黔ICP备17007116号-2</p>
-      <img src="https://cdn.jsdelivr.net/gh/crackzj/blogImg/police.png" style="float:left;"/>
-      <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">贵公网安备 52012202006122号</p>
+      <a href="https://github.com/crackzj/blog" target="_blank">Crackzj MIT License</a> 
+      <div style="margin:0 auto; padding:20px 0;">
+      <p style="line-height:20px;margin: 0px 15px 0px 5px; color:#939393;">黔ICP备17007116号-2</p>
+      <p style="line-height:20px;margin: 0px 0px 0px 5px; color:#939393;display:flex;align-items:center;justify-content:center;"><img src="https://cdn.jsdelivr.net/gh/crackzj/blogImg/police.png"/>贵公网安备 52012202006122号</p>
       </a>
 		 	</div>
       `, // 博客版权信息，支持a标签
